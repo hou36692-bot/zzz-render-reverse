@@ -1,0 +1,40 @@
+# Unity generated data, if this folder is later dropped into a project
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+
+# Local research data that must never be committed
+*.dds
+*.buf
+*.blk
+*.bundle
+*.exr
+*.fbx
+*.anim
+*.mat
+*.asset
+*.png.orig
+captures/
+source-assets/
